@@ -1,0 +1,94 @@
+a:hover{text-decoration:underline;}
+a{text-decoration:none; color:#8D0122;}
+
+.navTab{
+  height: 23px;
+  background-image:url('../images/tabSprite.png');
+}
+.navTab a{
+  text-decoration: none;
+  display:block;
+}
+td.patrons{
+  width: 82px;
+  background-position:0px 0px;
+}
+td.patrons:hover{
+  background-position:0px -23px;
+}
+td.patrons.active{
+  background-position:0px -46px;
+}
+td.performers{
+  width: 103px;
+  background-position:-82px 0px;
+}
+td.performers:hover{
+  background-position:-82px -23px;
+}
+td.performers.active{
+  background-position:-82px -46px;
+}
+td.vendors{
+  width: 86px;
+  background-position:-195px 0px;
+}
+td.vendors:hover{
+  background-position:-195px -23px;
+}
+td.vendors.active{
+  background-position:-195px -46px;
+}
+td.pradvertising{
+  width: 132px;
+  background-position:-281px 0px;
+}
+td.pradvertising:hover{
+  background-position:-281px -23px;
+}
+td.pradvertising.active{
+  background-position:-281px -46px;
+}
+td.site{
+  width: 50px;
+  background-position:-413px 0px;
+}
+td.site:hover{
+  background-position:-413px -23px;
+}
+td.site.active{
+  background-position:-413px -46px;
+}
+td.madrigal{
+  width: 93px;
+  background-position:-463px 0px;
+}
+td.madrigal:hover{
+  background-position:-463px -23px;
+}
+td.madrigal.active{
+  background-position:-463px -46px;
+}
+td.contact{
+  width: 84px;
+  background-position:-556px 0px;
+}
+td.contact:hover{
+  background-position:-556px -23px;
+}
+td.contact.active{
+  background-position:-556px -46px;
+}
+
+h1 {
+  align: center;
+  font-family: Arial;
+  font-style: Italic;
+  color: #560007
+}
+h2 {
+  align: center;
+  font-family: Arial;
+  font-style: Italic;
+  color: #560007
+}
