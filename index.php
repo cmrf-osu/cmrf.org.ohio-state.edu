@@ -34,7 +34,7 @@
         <img src="images/poster2012.jpg" border=0 />
         </center>
 	-->
-		<p>The first meeting of the Council well be <b>Monday, 27 August, 3-4 p.m.</b> in the Union's lower level meeting room. There will be pizza and pop.</p>
+		<p>The first meeting of the Council was Monday, 27 August, 3-4 p.m. in the Union's lower level meeting room. There was pizza and pop.</p>
 		
         <hr>
 		<br>
