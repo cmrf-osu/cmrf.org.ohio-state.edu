@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <!-- index.php -->
 
 <html>
@@ -34,7 +34,7 @@
         <img src="images/poster2012.jpg" border=0 />
         </center>
 	-->
-		<p>The first meeting of the Council was Monday, 27 August, 3-4 p.m. in the Union's lower level meeting room. There was pizza and pop.</p>
+		<p>The next meeting of the Council will be <b>Monday, 1 October, at 4 p.m.</b> in the Center for Student Leadership and Service on the second floor of the Ohio Union. Meet in the CMRF office on the second floor of the Center, room 3094F.</p>
 		
         <hr>
 		<br>
