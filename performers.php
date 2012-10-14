@@ -27,8 +27,7 @@
           Anachronism, the Arts and Sciences Student Council and the Pagan Student 
           Association. <br>
           <br>
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This year, Faire will be held on Saturday 
-          May 5th, 2012, and will take place from 11 a.m. until 6 p.m. on the 
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This year, Faire will be held in spring semester 2013, and will take place from 11 a.m. until 6 p.m. on the 
           OSU Mirror Lake, and South Oval<br>
           <!-- <br>
           To apply, fill out this <a href="pdf/Performer_Application_2010[1].rtf">Application Form</a> 
@@ -52,7 +51,7 @@
         <table border=0>
           <tr> 
             <td valign=top width="80"><b>Faire&nbsp;Date:</b></td>
-            <td width="487">Saturday, May 5, 2012</td>
+            <td width="487">TBA, Spring 2013</td>
           </tr>
           <tr> 
             <td width="80">&nbsp;</td>

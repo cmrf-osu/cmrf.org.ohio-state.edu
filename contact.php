@@ -15,13 +15,13 @@
   <tr valign="top">
     <td valign="top">
 	<blockquote><br>
-Perhaps you're trying to contact those crazy folks on the Council for the Medieval &amp;  Renaissance Faire?  Maybe this list will help you out:<br><br>
+Perhaps you're trying to contact those crazy folks on the Council for the Medieval &amp; Renaissance Faire? Maybe this list will help you out:<br><br>
         <table border=0 cellpadding=10 cellspacing=0 align=center>
           <tr bgcolor=#dddddd> 
             <td width="158">President</td>
-            <td width="129"><b>Rosemary Callahan</b></td>
-            <td width="158"><a href="mailto:callahan.215@osu.edu">callahan.215@osu.edu</a></td>
-          </tr>
+            <td width="129"><b>Julie Greenwood</b></td>
+            <td>
+	</tr>
           <tr> 
             <td>Vice President</td>
             <td><b>Sarah Jeu</b></td>
@@ -32,21 +32,20 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
             <td><b>Stormie Harlan</b></td>
             <td><a href="mailto:harlan.55@osu.edu">harlan.55@osu.edu</a></td>
           </tr>
-          <!--
           <tr> 
             <td>Secretary</td>
-            <td><b>Emily Dorrian</b></td>
-            <td>dorrian.6@osu.edu</td>
-          </tr>-->
+            <td><b>Jordan White</b></td>
+            <td><a href="mailto:white.1689@osu.edu">white.1689@osu.edu</a></td>
+          </tr>
           <tr> 
             <td>Vendor Coordinator</td>
-            <td><b>Sarah Jeu</b></td>
-            <td><a href="mailto:jeu.4@osu.edu">jeu.4@osu.edu</a></td>
+            <td><b>Leigh McCormick</b></td>
+            <td><a href="mailto:mccormick.247@osu.edu">mccormick.247@osu.edu</a></td>
           </tr>
           <tr bgcolor=#dddddd> 
             <td>Webmaster</td>
-            <td><b>Tim Callahan</b></td>
-            <td><a href="mailto:mrcallahat@yahoo.com">mrcallahat@yahoo.com</a></td>
+            <td><b>Benjamin Keith</b></td>
+            <td><a href="mailto:keith.146@osu.edu">keith.146@osu.edu</a></td>
           </tr>
           <!--
           <tr bgcolor=#dddddd> 
@@ -61,16 +60,15 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
           </tr>-->
           <tr> 
             <td>Advertising/Public Relations</td>
-            <td><b>Sarah Jeu</b></td>
-            <td><a href="mailto:jeu.4@osu.edu">jeu.4@osu.edu</a></td>
+            <td><b>Curtis Watts</b></td>
+            <td><a href="mailto:watts.230">watts.230@osu.edu</a></td>
           </tr>
-          <!--
-          <tr> 
-            <td>Guild Master</td>
-            <td><b>Stephanie Chounet</b></td>
-            <td bgcolor="#dddddd">chounet.1@osu.edu</td>
-          </tr>-->
           <tr bgcolor=#dddddd> 
+            <td>Guild Master</td>
+            <td><b>James Scarmack</b></td>
+            <td><a href="mailto:scarmack.2@osu.edu">scarmack.2@osu.edu</a></td>
+          </tr>
+          <tr> 
             <td>Performer Coordinator</td>
             <td><b>Stormie Harlan</b></td>
             <td><a href="mailto:harlan.55@osu.edu">harlan.55@osu.edu</a></td>

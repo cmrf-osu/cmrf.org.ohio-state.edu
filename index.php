@@ -18,9 +18,10 @@
     <td valign="top">
 	
 		<blockquote><br>
-        <!--
+		<p>The next meeting of the Council will be <b>Monday, 8 October, at 4 p.m.</b> in the Cap City room of the  Center for Student Leadership and Service on the second floor of the Ohio Union.</p>
+		
 		<p><b>The Medieval & Renaissance Faire at The Ohio State University</b> 
-          will be held on Saturday May 5th, 2012, and will take place from 11 
+          will be held on Saturday, April 6, 2012, and will take place from 11 
           a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.          </p>
         <hr>
 	<center>
@@ -29,13 +30,12 @@
             <a href="http://guild.org.ohio-state.edu">The 
             Medieval and Renaissance Performers Guild</a>. </p>
         </center>
+	<!--
         <hr>
         <center>
         <img src="images/poster2012.jpg" border=0 />
         </center>
 	-->
-		<p>The next meeting of the Council will be <b>Monday, 1 October, at 4 p.m.</b> in the Center for Student Leadership and Service on the second floor of the Ohio Union. Meet in the CMRF office on the second floor of the Center, room 3094F.</p>
-		
         <hr>
 		<br>
 	The Council for the Medieval and Renaissance Faire is a student-run organization at The Ohio State University.  Its purpose is to organize and help put on the Medieval and Renaissance Faire at Ohio State and the Madrigal Feast.  The Council works hand in hand with the Medieval and Renaissance Performer's Guild for both of these events.   The Council consists of anywhere from five to fifteen members from year to year and meets weekly to discuss business concerning the Faire and the Madrigal.<br>

@@ -25,15 +25,10 @@
         <br>
         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you're interested in being a vendor 
           at this year's Faire, please fill out the applicable form below and 
-          mail it to this address: <br>
-          <br>
-          CMRF <br>
-          Attn: Marketplace Director<br/>
-          106 W Dodridge St Apt E<br/>
-          Columbus, OH 43202<br/>
-          <br>
-        <center>
-
+          email it to our vendor coordinator, <a href="mailto:mccormick.247@osu.edu">Leigh McCormick</a>.<br>
+	<center>
+	<br>
+	<p>These forms are currently <b>out of date</b>. For current forms, contact <a href="mailto:mccormick.247@osu.edu">Leigh McCormick</a>. 
 <table border="0" width="374" height="272">
             <tbody><tr> 
               <td width="171"> 
@@ -81,13 +76,13 @@
 		</center>
 		<table border=0>
 			<tr><td valign=top><b>Faire&nbsp;Date:</b></td>
-            <td>Saturday, May 5th, 2012</td>
+            <td>TBA, Spring 2012</td>
           </tr><tr><td>&nbsp;</td></tr>
 			<tr><td valign=top><b>Location:</b>
 			<td>The Ohio State University Campus<br>
               Columbus, OH 43210</td>
           </tr><tr><td>&nbsp;</td></tr>
-			<tr><td valign=top><b>Time:</b></td><td>The faire begins at 11:00am and ends at 6:00pm. Vendors should arrive at least 1 & 1/2 hours before the Faire’s starting time to check in and setup.</td></tr><tr><td>&nbsp;</td></tr>
+			<tr><td valign=top><b>Time:</b></td><td>The faire begins at 11:00am and ends at 6:00pm. Vendors should arrive at least 1 &amp; 1/2 hours before the Faire’s starting time to check in and setup.</td></tr><tr><td>&nbsp;</td></tr>
 		</table>
 	    <br>
         <b>Questions?</b>: Please contact Sarah Jeu by email at jeu.4@osu.edu subject title "Vendors" with any questions 

@@ -17,12 +17,12 @@
 
 	<blockquote><br><br>
         <p><b>The Medieval & Renaissance Faire at The Ohio State University</b> 
-          will be held on Saturday May 5th, 2012, and will take place from 11 
+          will be held April 6, 2013, and will take place from 11 
           a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas. 
-          The theme will be The Heirs of Charlemagne, and the title will be "Lothar's Revenge."
+          The theme and title of the event have not been announced.
           
         </p>
-        Each year, on the first Saturday in May, the Medieval and Renaissance 
+        Each year, previously on the first Saturday in May, the Medieval and Renaissance 
         Faire brings merriment and revelry to the South Oval of The Ohio State 
         University. For more than 30 years, we've filled the South Oval with dancing 
         and swordplay, merchants and minstrels, acrobats and storytellers. Admission 
@@ -31,9 +31,7 @@
         dazzling noble garb, strap on your trusty sword, or simply throw on a 
         T-shirt and jeans and come see what we're all about. <br>
 	<hr>
-	This year the, 38th annual Renaissance Faire at 
-            OSU will be held on Saturday, May 5th, from 11am-6pm.  Admission
-             is free.  The Faire will take place, rain or shine, in the humble,
+            Admission is free.  The Faire will take place, rain or shine, in the humble,
               yet charming English village of Buck’s Eye Hollow (also referred to as the South Oval
               of the Ohio State University).  
             Daring duelists, talented musicians, and sundry acting troupes from

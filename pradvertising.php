@@ -17,16 +17,15 @@
 	<blockquote>
 	    <p>&nbsp;</p>
         <p>We would like to thank all of the businesses that purchased ads for 
-          the 2011 faire. Faire will be held 
-          May 5, 2012.</p>
+          the 2012 faire. The 2013 Faire will be held April 6, 2013.</p>
 	
 	<hr size="1" noshade>
         <p>
           
-          We want to thank all who made possible the success of the 2011 Faire, 
+          We want to thank all who made possible the success of the 2012 Faire, 
           everyone, patrons, performers and vendors. You all were a part of making 
           the faire a great success, we thank you and invite you all to return 
-          this year, May 5, 2012. Our title is &quot;The Heirs of Charlemagne: Lothar's Revenge&quot;</p>
+          in 2013. </p>
         <p>&nbsp;</p>
 	</blockquote></td>
   </tr>

@@ -16,8 +16,8 @@
   	<td>
 	<blockquote>
   	<div align="center">
-		<h1>11<sup>th</sup> Annual Midwinter Madrigal Feast</h1>
-		  <h3>February 3<sup>rd</sup> and 4<sup>th</sup> 2012<br>
+		<h1>12<sup>th</sup> Annual Midwinter Madrigal Feast</h1>
+		  <h3>November 16 and 17, 2012<br>
             At Summit on 16th<br/>
             Doors open: 7:00pm<br>
             Performance Starts: 7:30pm<br>
@@ -26,9 +26,9 @@
 		  <p>
             The Council for the Medieval and Renaissance Faire and the Ohio State 
             Medieval and Renaissance Performer's Guild would like to announce 
-            the 11<sup>th</sup> Annual Midwinter Madrigal Feast. We are pleased 
+            the 12<sup>th</sup> Annual Midwinter Madrigal Feast. We are pleased 
             to announce that due to your support, and to your increasing numbers, 
-            Madrigal will have a two night run. The event will take place February  3<sup>rd</sup> and 4<sup>th</sup> at
+            Madrigal will have a two night run. The event will take place November 16 and 17 at
             Summit on 16th (<a href="http://summitumc.org/">http://summitumc.org/</a>). Doors will open at 7PM on both 
             nights.
 		  <p>Madrigal is a dinner theatre experience which features a fun and entertaining night of medieval and renaissance dancing, songs, music, juggling, fighting as well as several other talents. Come in from the cold and join us for an evening of food and festivities!</p>
