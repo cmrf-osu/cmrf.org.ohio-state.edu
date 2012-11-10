@@ -16,6 +16,8 @@
     <td valign="top">
 
 	<blockquote><br><br>
+        <p><b>The Midwinter Madrigal Feast</b> will be held Friday and Saturday November 16 and 17. For more information and to order tickets, <a href="http://cmrf.org.ohio-state.edu/madrigal.php">click here</a>.
+
         <p><b>The Medieval & Renaissance Faire at The Ohio State University</b> 
           will be held April 6, 2013, and will take place from 11 
           a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas. 

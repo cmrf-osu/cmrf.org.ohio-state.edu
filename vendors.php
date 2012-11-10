@@ -36,11 +36,11 @@
                   Food Vendors:<br>
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2012 Food and Beverage Vendor Application.doc">Application 
+                  <li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Application.doc">Application 
                     Form (doc)</a> 
-                  </li><li><a href="pdf/CMRF- 2012 Food and Beverage Vendor Information Sheet.doc">Information 
+                  </li><li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Information Sheet.doc">Information 
                     </a>
-                  </li><li><a href="pdf/CMRF- 2012 Food and Beverage Vendor Guidelines and Restrictions.doc">Guidelines 
+                  </li><li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Guidelines and Restrictions.doc">Guidelines 
                     And Restrictions (doc)</a>
                 </li></ul>
               </td>
@@ -49,11 +49,11 @@
                   Craft Vendors: 
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2012 Craft Vendor Application.docx">Application 
+                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.docx">Application 
                     Form (pdf)</a></li>
-                  <li><a href="pdf/CMRF-2012 Craft Vendor Information Sheet.doc">Information 
+                  <li><a href="pdf/CMRF-2013 Craft Vendor Information Sheet.doc">Information 
                     </a>
-                  </li><li><a href="pdf/CMRF- 2012 Craft Vendor Guidelines and Restrictions.doc">Guidelines 
+                  </li><li><a href="pdf/CMRF- 2013 Craft Vendor Guidelines and Restrictions.doc">Guidelines 
                     And Restrictions (doc)</a>
                  <!-- <li><a href="pdf/CMRF- 2011 Vendor Check List.doc">Vendor 
                     Checklist (doc)</a>  -->
@@ -76,7 +76,7 @@
 		</center>
 		<table border=0>
 			<tr><td valign=top><b>Faire&nbsp;Date:</b></td>
-            <td>TBA, Spring 2012</td>
+            <td>Saturday, April 6, 2013</td>
           </tr><tr><td>&nbsp;</td></tr>
 			<tr><td valign=top><b>Location:</b>
 			<td>The Ohio State University Campus<br>

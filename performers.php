@@ -51,7 +51,7 @@
         <table border=0>
           <tr> 
             <td valign=top width="80"><b>Faire&nbsp;Date:</b></td>
-            <td width="487">TBA, Spring 2013</td>
+            <td width="487">Saturday April 6, 2013</td>
           </tr>
           <tr> 
             <td width="80">&nbsp;</td>
