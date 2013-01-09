@@ -20,7 +20,7 @@
 		<blockquote><br>
 		
 		<p><b>The Medieval & Renaissance Faire at The Ohio State University</b> 
-          will be held on Saturday, April 6, 2012, and will take place from 11 
+          will be held on Saturday, April 6, 201333, and will take place from 11 
           a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.          </p>
         <hr>
 	<center>

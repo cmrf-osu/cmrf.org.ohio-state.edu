@@ -19,7 +19,7 @@
 		    <td width="50%" valign="top" valigh="top"> <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                 The Medieval and Renaissance Faire takes place on the South Oval 
                 of the Ohio State University Columbus campus the first Saturday 
-                in May. It has been going on in this area for over two decades 
+                in April. It has been going on in this area for over two decades 
                 and will hopefully continue for years to come. The site is spotted 
                 with trees native to central Ohio and also harbors the serene 
                 Mirror Lake. With multiple paths and 4-5 performance sites each 
