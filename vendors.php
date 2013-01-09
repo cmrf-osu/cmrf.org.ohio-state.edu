@@ -49,7 +49,7 @@
                   Craft Vendors: 
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.docx">Application 
+                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application 
                     Form (pdf)</a></li>
                   <li><a href="pdf/CMRF-2013 Craft Vendor Information Sheet.doc">Information 
                     </a>
