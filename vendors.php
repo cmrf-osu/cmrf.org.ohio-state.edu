@@ -50,7 +50,7 @@
                 </center>
                 <ul>
                   <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application 
-                    Form (pdf)</a></li>
+                    Form (doc)</a></li>
                   <li><a href="pdf/CMRF-2013 Craft Vendor Information Sheet.doc">Information 
                     </a>
                   </li><li><a href="pdf/CMRF- 2013 Craft Vendor Guidelines and Restrictions.doc">Guidelines 
