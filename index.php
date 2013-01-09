@@ -18,9 +18,6 @@
     <td valign="top">
 	
 		<blockquote><br>
-		<p>The next meeting of the Council will be <b>Monday, 5 November, at 4 p.m.</b> in the Cap City room of the Center for Student Leadership and Service on the second floor of the Ohio Union.</p>
-	
-		<p><b>The Midwinter Madrigal Feast</b> will be held Friday and Saturday November 16 and 17. For more information and to order tickets, <a href="http://cmrf.org.ohio-state.edu/madrigal.php">click here</a>.
 		
 		<p><b>The Medieval & Renaissance Faire at The Ohio State University</b> 
           will be held on Saturday, April 6, 2012, and will take place from 11 
