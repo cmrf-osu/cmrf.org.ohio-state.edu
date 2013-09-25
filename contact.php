@@ -20,29 +20,29 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
           <tr bgcolor=#dddddd> 
             <td width="158">President</td>
             <td width="129"><b>Julie Greenwood</b></td>
-            <td>
+            <td><a href="mailto:greenwood.74@osu.edu">greenwood.74@osu.edu</a></td>
 	</tr>
           <tr> 
             <td>Vice President</td>
-            <td><b>Sarah Jeu</b></td>
-            <td><a href="mailto:jeu.4@osu.edu">jeu.4@osu.edu</a></td>
+            <td><b>Gina Grothaus</b></td>
+            <td><a href="mailto:grothaus.13@osu.edu">grothaus.13@osu.edu</a></td>
           </tr>
           <tr bgcolor=#dddddd> 
             <td>Treasurer</td>
-            <td><b>Stormie Harlan</b></td>
-            <td><a href="mailto:harlan.55@osu.edu">harlan.55@osu.edu</a></td>
+            <td><b>Casey Hamilton</b></td>
+            <td><a href="mailto:hamilton.854@osu.edu">hamilton.854@osu.edu</a></td>
           </tr>
           <tr> 
             <td>Secretary</td>
             <td><b>Jordan White</b></td>
             <td><a href="mailto:white.1689@osu.edu">white.1689@osu.edu</a></td>
           </tr>
-          <tr> 
-            <td>Vendor Coordinator</td>
-            <td><b>Leigh McCormick</b></td>
-            <td><a href="mailto:mccormick.247@osu.edu">mccormick.247@osu.edu</a></td>
-          </tr>
           <tr bgcolor=#dddddd> 
+            <td>Vendor Coordinator</td>
+            <td><b>Cooper Legeza</b></td>
+            <td><a href="mailto:legeza.5@osu.edu">legeza.5@osu.edu</a></td>
+          </tr>
+          <tr> 
             <td>Webmaster</td>
             <td><b>Benjamin Keith</b></td>
             <td><a href="mailto:keith.146@osu.edu">keith.146@osu.edu</a></td>
@@ -52,16 +52,16 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
             <td>Madrigal Coordinator</td>
             <td><b>Jennifer Torpie</b></td>
             <td>torpie.1@osu.edu</td>
-          </tr>
-          <tr> 
-            <td>Site Coordinator</td>
-            <td>&nbsp;</td>
-            <td bgcolor="#dddddd">&nbsp;</td>
           </tr>-->
+          <tr bgcolor=#dddddd> 
+            <td>Site Coordinator</td>
+            <td><b>Cooper Legeza</b></td>
+            <td><a href="mailto:legeza.5@osu.edu">legeza.5@osu.edu</a></td>
+          </tr>
           <tr> 
             <td>Advertising/Public Relations</td>
             <td><b>Curtis Watts</b></td>
-            <td><a href="mailto:watts.230">watts.230@osu.edu</a></td>
+            <td><a href="mailto:watts.230@osu.edu">watts.230@osu.edu</a></td>
           </tr>
           <tr bgcolor=#dddddd> 
             <td>Guild Master</td>
@@ -70,8 +70,8 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
           </tr>
           <tr> 
             <td>Performer Coordinator</td>
-            <td><b>Stormie Harlan</b></td>
-            <td><a href="mailto:harlan.55@osu.edu">harlan.55@osu.edu</a></td>
+            <td><b>Patrick Schall</b></td>
+            <td><a href="mailto:schall.27@osu.edu">schall.27@osu.edu</a></td>
           </tr>
         </table>
       </blockquote>

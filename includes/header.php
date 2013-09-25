@@ -12,7 +12,9 @@
   } else {
     $titleImage = "images/index.gif";
   }
+  
 ?>
+
 
   <tr valign="top">
     <td width="5" bgcolor="#000000" rowspan="6">&nbsp;</td>

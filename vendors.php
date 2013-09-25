@@ -11,24 +11,17 @@
 <table align="center" width="640" height="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
 
 <?php include("includes/header.php") ?>
+<?php include("includes/dates.php") ?>
 
   <tr valign="top">
     <td valign="top">
-<blockquote>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-        The CMRF sells space at our Faire for outside vendors to come and peddle 
-        their wares associated in some way with the time period. It has had vendors 
-        selling everything from period clothing and swords, to candles and incense, 
-        to jewelry and masks, to stuffed creatures and fairy wands. Many vendors 
-        are local to Columbus, but some have come from as far away as Michigan.
-        
-        <br>
-        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you're interested in being a vendor 
-          at this year's Faire, please fill out the applicable form below and 
-          email it to our vendor coordinator, <a href="mailto:mccormick.247@osu.edu">Leigh McCormick</a>.<br>
-	<center>
 	<br>
-	<p>These forms are currently <b>out of date</b>. For current forms, contact <a href="mailto:mccormick.247@osu.edu">Leigh McCormick</a>. 
+<blockquote>
+	<p>The CMRF sells space at our Faire for outside vendors to come and peddle their wares associated in some way with the time period. It has had vendors selling everything from period clothing and swords, to candles and incense, to jewelry and masks, to stuffed creatures and fairy wands. Many vendors are local to Columbus, but some have come from as far away as Michigan. </p>
+        <p>If you're interested in being a vendor at this year's Faire, please fill out the applicable form below and email it to our vendor coordinator, <a href="mailto:legeza.5@osu.edu">Cooper Legeza</a>.</p>
+	
+	<center>
+	<p>If you have any issues with these forms, contact <a href="mailto:legeza.5@osu.edu">Cooper Legeza</a>. 
 <table border="0" width="374" height="272">
             <tbody><tr> 
               <td width="171"> 
@@ -76,18 +69,19 @@
 		</center>
 		<table border=0>
 			<tr><td valign=top><b>Faire&nbsp;Date:</b></td>
-            <td>Saturday, April 6, 2013</td>
+            <td>
+	      <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?></td>
           </tr><tr><td>&nbsp;</td></tr>
 			<tr><td valign=top><b>Location:</b>
 			<td>The Ohio State University Campus<br>
               Columbus, OH 43210</td>
           </tr><tr><td>&nbsp;</td></tr>
-			<tr><td valign=top><b>Time:</b></td><td>The faire begins at 11:00am and ends at 6:00pm. Vendors should arrive at least 1 &amp; 1/2 hours before the Faire’s starting time to check in and setup.</td></tr><tr><td>&nbsp;</td></tr>
+			<tr><td valign=top><b>Time:</b></td><td>The faire begins at 11:00am and ends at 6:00pm. Vendors should arrive at least one and a half hours before the Faire's starting time to check in and setup.</td></tr><tr><td>&nbsp;</td></tr>
 		</table>
 	    <br>
-        <b>Questions?</b>: Please contact Sarah Jeu by email at jeu.4@osu.edu subject title "Vendors" with any questions 
-        you may have. </blockquote>
-	</td>
+        <b>Questions?</b>: Please contact <a href="mailto:legeza.5@osu.edu">Cooper Legeza</a>, subject title "Vendors" with any questions you may have.
+      </blockquote>
+    </td>
   </tr>
 <?php include("includes/footer.php") ?>
 </table>

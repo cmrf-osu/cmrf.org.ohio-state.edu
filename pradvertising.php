@@ -11,21 +11,18 @@
 <table align="center" width="640" height="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
 
 <?php include("includes/header.php") ?>
+<?php include("includes/dates.php") ?>
 
   <tr valign="top">
     <td valign="top">
 	<blockquote>
 	    <p>&nbsp;</p>
-        <p>We would like to thank all of the businesses that purchased ads for 
-          the 2012 faire. The 2013 Faire will be held April 6, 2013.</p>
-	
-	<hr size="1" noshade>
         <p>
           
-          We want to thank all who made possible the success of the 2012 Faire, 
-          everyone, patrons, performers and vendors. You all were a part of making 
-          the faire a great success, we thank you and invite you all to return 
-          in 2013. </p>
+          We want to thank all who made possible the success of the <?php echo $fair_year_old; ?> Faire: 
+          patrons, performers and vendors. You all were a part of making 
+          the Faire a great success, we thank you and invite you all to return 
+          in <?php echo $fair_year; ?>. </p>
         <p>&nbsp;</p>
 	</blockquote></td>
   </tr>

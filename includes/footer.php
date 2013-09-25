@@ -4,7 +4,7 @@
     <td valign="top">
       <div align="center">
         <tt>
-          <br/>updated by Benjamin Keith, 2012
+          <br/>updated by Benjamin Keith, 2013
           <br/>site design by Brian Huneke, 2003
           <br/>CMRF Dragon logo by Jany Chan, 2000
         </tt>
