@@ -1,0 +1,1 @@
+<p>Faire is over, so keep an eye on this space and on our <a href="https://www.facebook.com/CouncilfortheMedievalandRenaissanceFaire">Facebook page</a> for further updates. See you at Madrigal!</p>

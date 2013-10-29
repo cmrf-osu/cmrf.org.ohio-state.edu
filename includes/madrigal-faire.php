@@ -1,0 +1,1 @@
+<p>Madrigal is next year, so come join us at the <a href="index.php"><?php echo $fair_nth ; ?> Annual Medieval and Renaissance Faire</a>, held <?php echo $fair_date . ", " . $fair_year ; ?> on the South Oval at Ohio State University!</p>

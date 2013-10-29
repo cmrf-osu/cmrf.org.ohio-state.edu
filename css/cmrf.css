@@ -81,14 +81,56 @@ td.contact.active{
 }
 
 h1 {
-  align: center;
+  text-align: center;
   font-family: Arial;
   font-style: Italic;
   color: #560007
 }
 h2 {
-  align: center;
+  text-align: center;
   font-family: Arial;
   font-style: Italic;
   color: #560007
+}
+table.striped {
+  border: none;
+  border-spacing: 0px;
+}
+table.striped tr:nth-child(odd) {
+  background: #ccc;
+}
+table.striped tr:nth-child(even) {
+  background: #eee;
+}
+table.striped td {
+  text-align: left;
+  vertical-align: top;
+  padding: 3px;
+}
+.two-column {
+  clear: both;
+  height: auto;
+  
+}
+.two-column .column-left {
+  float:left;
+  width:350px;
+  height: auto;
+}
+.two-column .column-right {
+  float:right;
+  width: 200px;
+  height: auto;
+}
+
+.two-column:nth-child(odd) div {
+  background: #ccc;
+  height: 100%;
+}
+.center {
+  text-align: center;
+  clear: both;
+}
+.bg-grey {
+  background: #ccc;
 }

@@ -1,0 +1,2 @@
+<p>Madrigal will be held <?php echo $madrigal_date . ", " . $madrigal_year ; ?>. Tickets and location will become available for order online as more information about the Madrigal is released.</p>
+			<p>Keep an eye on this space and on our <a href="https://www.facebook.com/CouncilfortheMedievalandRenaissanceFaire">Facebook page</a> for further updates. See you at Madrigal!</p>

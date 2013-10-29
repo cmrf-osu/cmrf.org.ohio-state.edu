@@ -16,8 +16,8 @@
   <tr>
   	<td>
 	<blockquote>
-  	<div align="center">
-		<h1><?php echo $madrigal_nth; ?> Annual Midwinter Madrigal Feast</h1>
+  	<div>
+		<h1 style="text-align: center"><?php echo $madrigal_nth; ?> Annual Midwinter Madrigal Feast</h1>
 <!--
           <h3>November 16 and 17, 2012<br>
             At Summit on 16th<br/>
@@ -30,20 +30,35 @@
 		  <p>Madrigal is a dinner theatre experience which features a fun and entertaining night of medieval and renaissance dancing, songs, music, juggling, fighting as well as several other talents. Come in from the cold and join us for an evening of food and festivities!</p>
 
 -->
-		<p>The Council for the Medieval and Renaissance Faire and the Medieval and Renaissance Performer's Guild join annually to put on a showcase of talents and performances every winter. Madrigal is a dinner theatre experience which features a fun and entertaining night of medieval and renaissance dancing, songs, music, juggling, fighting as well as several other talents. Come in from the cold and join us for an evening of food and festivities!</p>
+		  <p>The Council for the Medieval and Renaissance Faire and the Medieval and Renaissance Performer's Guild join annually to put on a showcase of talents and performances every winter. Madrigal is a dinner theatre experience which features a fun and entertaining night of medieval and renaissance dancing, songs, music, juggling, fighting as well as several other talents. Come in from the cold and join us for an evening of food and festivities!</p>
 <!-- See the Gdoc for more information -->
-	<h3>Ticket information</h3>
-<!--
-		<p>Online ticket orders are now closed. Tickets at the door are $10 for all comers.</p>
--->
-		<p>Tickets will become available for order online as more information about the Madrigal is released.</p>
+		  <h3>Ticket information</h3>
 
+			<?php
+				  /* Don't mess with this portion.
+				   * The content of the Madrigal page is chosen by two factors.
+						* A collection of files in `/includes/` that hold different content. Each file is for a different time of year. If you want to change what a file says, edit the appropriate file in `/includes/`.
+						* A setting in `/includes/dates.php` that determines which of the files in `/includes/` to display. If you want to change which file is displayed on the Madrigal page, change the `$madrigal_status` variable in `/includes/dates.php`.
+				   */
+			?>
+			<?php if ($madrigal_status == 'faire' ) { ?>
+				  <?php include("includes/madrigal-faire.php") ?>
+			<?php } elseif ($madrigal_status == 'nextyear' ) { ?>
+				  <?php include("includes/madrigal-nextyear.php") ?>
+			<?php } elseif ($madrigal_status == 'thisyear' ) { ?>
+				  <?php include("includes/madrigal-thisyear.php") ?>
+			<?php } elseif ($madrigal_status == 'ticketing' ) { ?>
+				  <?php include("includes/madrigal-ticketing.php") ?>
+			<?php } elseif ($madrigal_status == 'soldout' ) { ?>
+				  <?php include("includes/madrigal-soldout.php") ?>
+			<?php } else { ?>
+				  <p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
+			<?php } ?>
 
-      
   </div>
 	  </div>
   	</blockquote>
-	<div align="center"><img src="images/Madrigal_Swan.gif" width="360" heigth="362" alt="The Madrigal Swan."/></div>
+	<div align="center" style="clear: both;"><img src="images/Madrigal_Swan.gif" width="360" heigth="362" alt="The Madrigal Swan."/></div>
  	</td>
   </tr>
 <?php include("includes/footer.php") ?>
