@@ -2,15 +2,16 @@
 				  Madrigal runs Friday and Saturday night, November 15 and 16, at <a href="https://maps.google.com/maps?hl=en&q=St%20Stephen%27s%20Episcopal%20Church%2C%2030%20W%20Woodruff%20Ave%2C%20Columbus%2C%20OH">St. Stephen's Episcopal Church on Woodruff Avenue</a> in Columbus, Ohio. The show starts at 7 p.m. Doors open at 6:30. Parking at St. Stephen's is limited to 14 spots, so guests may want to park in the <a href="http://www.campusparc.com/osu/garages/arps">Arps Garage</a> on College Road ($6.25 fee) or in offcampus parking.<br/>
 				  Guests requiring handicap parking should <a href="mailto:keith.146@osu.edu?subject=Madrigal%20parking%20request">email us</a> to reserve a parking spot at the church.
 			</p>
-			<p>Press the button to order an item. Your order will be totaled up and processed by PayPal. If you want to order multiple tickets or multiple food items, you will have the option to do so in PayPal's shopping cart.
+			<p><strong>Food orders closed at noon Thursday.</strong></p>
+			<p>Press the button to order tickets. Your order will be totaled up and processed by PayPal. If you want to order multiple tickets, you will have the option to do so in PayPal's shopping cart.
 			</p>
 			<table class="striped">
 				  <tr>
 				  	<td>
-								<p>
-									One ticket. Includes complimentary drinks and our wassail punch. Choose Friday, November 15 or Saturday, November 16.<br />
-									$10
-							  </p>	
+						<p>
+							One ticket. Includes complimentary drinks and our wassail punch. Choose Friday, November 15 or Saturday, November 16.<br />
+							$10
+					  </p>	
 					</td>
 					<td>
 									<p>
@@ -29,126 +30,7 @@
 						  </p>
 					</td>
 				  </tr>
-				  <tr>
-					<td>
-						<p>
-									Veggie Tray <br />
-									$5
-							  </p>
-					</td>
-					<td>
-						<p>
-							  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							  <input type="hidden" name="cmd" value="_s-xclick">
-							  <input type="hidden" name="hosted_button_id" value="MDN4JNC2BL7YQ">
-							  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							  </form>
-							  </p>
-					</td>
-				  </tr>
-				  <tr>
-					<td>
-						<p>
-									Fruit tray <br />
-									$5
-							  </p>
-					</td>
-					<td>
-						<p>
-							  <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							  <input type="hidden" name="cmd" value="_s-xclick">
-							  <input type="hidden" name="hosted_button_id" value="GYWCYJHA9CUEC">
-							  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							  </form>
-							  </p>
-					</td>
-				  </tr>
-				  <tr>
-					<td>
-						<P>
-									Sausage with crackers <br />
-									$6
-							  </P>
-					</td>
-					<td>
-						<p>
-									<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-									<input type="hidden" name="cmd" value="_s-xclick">
-									<input type="hidden" name="hosted_button_id" value="A4NRKGTN43KA8">
-									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-									<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-									</form>
-	  
-							  </p>
-					</td>
-				  </tr>
-				  <tr>
-					<td>
-						<p>
-									Cheese tray with crackers<br />
-									$6
-							  </p>
-					</td>
-					<td>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							  <input type="hidden" name="cmd" value="_s-xclick">
-							  <input type="hidden" name="hosted_button_id" value="F3B55J6DK5MR6">
-							  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							  </form>
-					</td>
-				  </tr>
-				  <tr>
-					<td>
-						<p>
-									Bread tray with olive oil<br/>
-									$3
-							  </p>
-					</td>
-					<td>
-						<p>
-									<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-									<input type="hidden" name="cmd" value="_s-xclick">
-									<input type="hidden" name="hosted_button_id" value="D9CGELN4JEUY6">
-									<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-									<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-									</form>
-	  
-							  </p>
-					</td>
-				  </tr>
-				  <tr>
-					<td>
-						<p>Chocolate cake<br />
-							  $5</p>
-							  <img src="images/cake_chocolate.jpg" alt="Chocolate cake" width="300px"/>
-					</td>
-					<td>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							  <input type="hidden" name="cmd" value="_s-xclick">
-							  <input type="hidden" name="hosted_button_id" value="MBP8LGWWHCFTQ">
-							  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							  </form>
-					</td>
-				  </tr>
-				  <tr>
-					<td>
-						<p>Lemon cake<br />
-							  $5</p>
-							  <img src="images/cake_lemon.jpg" alt="Lemon cake" width="300px" />
-					</td>
-					<td>
-						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-							  <input type="hidden" name="cmd" value="_s-xclick">
-							  <input type="hidden" name="hosted_button_id" value="YMM3LEYXL6QRE">
-							  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-							  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-							  </form>
-					</td>
-				  </tr>
+
 			</table>
 
 			<div class="center" style="padding-top: 20px;">

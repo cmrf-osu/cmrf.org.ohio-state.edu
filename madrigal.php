@@ -49,6 +49,8 @@
 				  <?php include("includes/madrigal-thisyear.php") ?>
 			<?php } elseif ($madrigal_status == 'ticketing' ) { ?>
 				  <?php include("includes/madrigal-ticketing.php") ?>
+			<?php } elseif ($madrigal_status == 'ticketing-nofood' ) { ?>
+				  <?php include("includes/madrigal-ticketing-nofood.php") ?>
 			<?php } elseif ($madrigal_status == 'soldout' ) { ?>
 				  <?php include("includes/madrigal-soldout.php") ?>
 			<?php } else { ?>
