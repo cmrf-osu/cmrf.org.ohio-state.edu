@@ -1,4 +1,5 @@
 <?php
+    /* Change dates after Faire */
 
     /* Faire 
      * Note that the variable 'fair' is spelled without an 'e'. */
@@ -21,7 +22,7 @@
     $madrigal_year_old = '2012'; // Last year; YYYY
     $madrigal_nth_old = '12<sup>th</sup>'; // was 12 in 2012. 
     
-    $madrigal_status = 'ticketing-nofood';
+    $madrigal_status = 'faire';
         // faire        - after madrigal up to faire
         // nextyear     - after faire
         // thisyear     - once operations start

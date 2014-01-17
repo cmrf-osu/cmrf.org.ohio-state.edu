@@ -19,8 +19,12 @@
   <tr valign="top">
     <td valign="top">
       <blockquote>
-	<br>
+	<br/>
 	<p>
+	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> will be held on
+	  <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?>, from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.
+	</p>
+	<!--<p>
 	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> was held on
 	  <?php echo $fair_day_old . ", " . $fair_date_old . ", " . $fair_year_old ; ?>, and took place from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.
 	</p>
@@ -36,6 +40,8 @@
 	<center><p></p></center>
 	
 	<center><a href="images/poster2013.jpg"><img src="images/poster2013small.jpg" alt="Dance with Death: A Fine Knight to Die: Saturday, April 6 on the South Oval. 11 a.m. to 6 p.m., rain or shine. Free entry!"/></a></center>
+	
+	-->
 	
 	<hr>
 	  <center>

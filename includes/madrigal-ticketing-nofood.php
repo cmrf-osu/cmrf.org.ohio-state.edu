@@ -11,7 +11,8 @@
 						<p>
 							One ticket. Includes complimentary drinks and our wassail punch. Choose Friday, November 15 or Saturday, November 16.<br />
 							$10
-					  </p>	
+					  </p>
+						<p>Saturday's production is almost at capacity. <br/><b>Please consider coming Friday.</b></p>
 					</td>
 					<td>
 									<p>
