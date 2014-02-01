@@ -24,30 +24,10 @@
 	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> will be held on
 	  <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?>, from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.
 	</p>
-	<!--<p>
-	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> was held on
-	  <?php echo $fair_day_old . ", " . $fair_date_old . ", " . $fair_year_old ; ?>, and took place from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.
-	</p>
-	
-	<p>
-	  <b>The Council for the Medieval and Renaissance Faire</b> thanks all who attended, as well as the vendors, the performers, the volunteers from AnimePunch and the Medieval and Renaissance Performers' Guild who helped make the Faire a success. Join us next year in the fall for Madrigal!
-	</p>
-	
-	<p>
-	  <b>Sir Alexander Bjornscar and his squire</b> had recently stumbled back from the crusades, just in time for the Spring Festival. Alexander continually bemoaned the hardships he had to endure: the fighting, the bad cooking, and the lack of doilies. His squire disagred, glad she finally had a chance to fight. She had to save her knight's life many times. Many, many times. However, Death had planned for Alexander to die during the crusades and was not pleased. Disguised as the king's messenger, Death traveled to the festival, intent on killing the knight...
-	</p>
-	
-	<center><p></p></center>
-	
-	<center><a href="images/poster2013.jpg"><img src="images/poster2013small.jpg" alt="Dance with Death: A Fine Knight to Die: Saturday, April 6 on the South Oval. 11 a.m. to 6 p.m., rain or shine. Free entry!"/></a></center>
-	
-	-->
 	
 	<hr>
-	  <center>
-	    <p>If you're looking for the OSU students who form the cast of the Faire at OSU, try here:<br>
-	    <a href="http://guild.org.ohio-state.edu">The Medieval and Renaissance Performers Guild</a>. </p>
-	  </center>
+	  <p class="center">If you're looking for the OSU students who form the cast of the Faire at OSU, try here:<br>
+	  <a href="http://guild.org.ohio-state.edu">The Medieval and Renaissance Performers Guild</a>. </p>
 	<hr>
 	
 	<p>The Council for the Medieval and Renaissance Faire is a student-run organization at The Ohio State University.  Its purpose is to organize and help put on the Medieval and Renaissance Faire at Ohio State and the Madrigal Feast.  The Council works hand in hand with the Medieval and Renaissance Performer's Guild for both of these events.   The Council consists of anywhere from five to fifteen members from year to year and meets weekly to discuss business concerning the Faire and the Madrigal.<br></p>
@@ -64,9 +44,12 @@
 	
 	<!--<a href="pradvert.html">--><b><font color=#8D0122>Public Relations/Advertising/Fundraising:</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Faire Council normally has a poster contest each year centering on the theme for the year's Faire.  This poster is placed in area businesses to advertise for the event.  The design is made into a shirt sold at the Faire.  A program is published and distributed at the Faire containing information about performers, vendors, shows, and ads from area businesses.  We sell these ads to help defray the cost of producing the programs and the posters.  There are coordinators on Faire Council for all of these items as well.<br><br>
 	
-	<!--<a href="madrigal.html">--><b><font color=#8D0122>Madrigal:</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Faire Council also puts on an annual Madrigal Feast with the help of the Medieval and Renaissance Performer's Guild.  This tradition started Winter of 2002 and will hopefully continue for many years to come.  Council organizes the site, advertising, and ticket sales while the Guild provides the performers.  A Madrigal Feast is a type of a Dinner Theatre in which the participants are visually and audibly taken back to the Medieval and Renaissance Periods for a night of period songs, dances, and a great dinner hosted by the lords and ladies of the castle.  Its location and date are subject to change each year.  (Please see the dates page for more information.)<br>
+	<!--<a href="madrigal.html">--><b><font color=#8D0122>Madrigal:</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Faire Council also puts on an annual Madrigal Feast with the help of the Medieval and Renaissance Performer's Guild.  This tradition started Winter of 2002 and will hopefully continue for many years to come.  Council organizes the site, advertising, and ticket sales while the Guild provides the performers.  A Madrigal Feast is a type of a Dinner Theatre in which the participants are visually and audibly taken back to the Medieval and Renaissance Periods for a night of period songs, dances, and a great dinner hosted by the lords and ladies of the castle.  Its location and date are subject to change each year. <br>
       </blockquote>
-      
+	  
+      <hr/>
+		<p><a href="faire-archives.php">Catalog of past Faires</a></p>
+	  <hr/>
     </td>
   </tr>
   <?php include("includes/footer.php") ?>
