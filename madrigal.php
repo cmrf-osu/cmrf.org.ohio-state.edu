@@ -13,11 +13,10 @@
 <?php include("includes/header.php") ?>
 <?php include("includes/dates.php") ?>
 
-  <tr>
+  <tr valign="top" id="body">
   	<td>
-	<blockquote>
   	<div>
-		<h1 style="text-align: center"><?php echo $madrigal_nth; ?> Annual Midwinter Madrigal Feast</h1>
+		<h1 class="center"><?php echo $madrigal_nth; ?> Annual Midwinter Madrigal Feast</h1>
 <!--
           <h3>November 16 and 17, 2012<br>
             At Summit on 16th<br/>
@@ -59,7 +58,6 @@
 
   </div>
 	  </div>
-  	</blockquote>
 	<div align="center" style="clear: both;"><img src="images/Madrigal_Swan.gif" width="360" heigth="362" alt="The Madrigal Swan."/></div>
  	</td>
   </tr>

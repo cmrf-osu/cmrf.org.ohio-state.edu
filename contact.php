@@ -12,9 +12,9 @@
 
 <?php include("includes/header.php") ?>
 
-  <tr valign="top">
+  <tr valign="top" id="body">
     <td valign="top">
-	<blockquote><br>
+	<br>
 Perhaps you're trying to contact those crazy folks on the Council for the Medieval &amp; Renaissance Faire? Maybe this list will help you out:<br><br>
         <table border=0 cellpadding=10 cellspacing=0 align=center>
           <tr bgcolor=#dddddd> 
@@ -74,7 +74,6 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
             <td><a href="mailto:schall.27@osu.edu">schall.27@osu.edu</a></td>
           </tr>
         </table>
-      </blockquote>
 	</td>
   </tr>
 <?php include("includes/footer.php") ?>

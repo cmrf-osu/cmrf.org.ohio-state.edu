@@ -2,13 +2,13 @@
 
   <tr valign="top">
     <td valign="top">
-      <div align="center">
-        <tt>
-          <br/>updated by Benjamin Keith, 2013
-          <br/>site design by Brian Huneke, 2003
-          <br/>CMRF Dragon logo by Jany Chan, 2000
-        </tt>
-      </div>
+      <footer>
+        <p class="center">
+          updated by Benjamin Keith, 2013-2014<br/>
+          site design by Brian Huneke, 2003<br/>
+          CMRF Dragon logo by Jany Chan, 2000
+        </p>
+      </footer>
     </td>
   </tr>
 

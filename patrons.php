@@ -13,10 +13,8 @@
 <?php include("includes/header.php") ?>
 <?php include("includes/dates.php") ?>
 
-  <tr valign="top">
+  <tr valign="top" id="body">
     <td valign="top">
-
-	<blockquote><br><br>
         <p>
 	  <b>The Midwinter Madrigal Feast</b> will be held Friday and Saturday, <?php echo $madrigal_date ; ?>. For more information and to order tickets, <a href="http://cmrf.org.ohio-state.edu/madrigal.php">click here</a>.
 	</p>
@@ -79,7 +77,6 @@
 	<p>
 	  We are always happy to have new members and make new contacts, so if you are interested in becoming involved with the faire, feel free to contact us. The Council's website is: <a href="../index.html">http://cmrf.org.ohio-state.edu</a>, and the Guild's website is <a href="http://guild.org.ohio-state.edu">http://guild.org.ohio-state.edu</a>. 
 	</p>
-      </blockquote>
     </td>
   </tr>
 <?php include("includes/footer.php") ?>

@@ -15,7 +15,7 @@
 <?php include("includes/header.php"); ?>
 
 
-  <tr valign="top">
+  <tr valign="top" id="body">
     <td valign="top">
       <h1>Past Faires</h1>
       <h2>April 6, 2013</h2>
@@ -25,7 +25,7 @@
   </tr>
   <?php include("includes/footer.php") ?>
 </table>
-<div style="height: 40px;">&nbsp;</div>
+
 
 </body>
 </html>

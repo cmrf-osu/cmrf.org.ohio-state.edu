@@ -13,10 +13,8 @@
 <?php include("includes/header.php") ?>
 <?php include("includes/dates.php") ?>
 
-  <tr valign="top">
+  <tr valign="top" id="body">
     <td valign="top">
-	<blockquote>
-	    <p>&nbsp;</p>
         <p>
           
           We want to thank all who made possible the success of the <?php echo $fair_year_old; ?> Faire: 
@@ -24,7 +22,7 @@
           the Faire a great success, we thank you and invite you all to return 
           in <?php echo $fair_year; ?>. </p>
         <p>&nbsp;</p>
-	</blockquote></td>
+	  </td>
   </tr>
   <tr>
     <td>

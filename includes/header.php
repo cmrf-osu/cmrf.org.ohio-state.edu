@@ -16,15 +16,15 @@
 ?>
 
 
-  <tr valign="top">
+  <tr valign="top" id="photo">
     <td width="5" bgcolor="#000000" rowspan="6">&nbsp;</td>
     <td valign="top" width="630" height="50"><img src="<?php echo $titleImage ?>" width="630" height="50" border="0" id="titleImage"></td>
     <td width="5" bgcolor="#000000" rowspan="6">&nbsp;</td>
   </tr>
-  <tr valign="top">
+  <tr valign="top" id="logo">
     <td valign="top" width="630" height="48"><a href="index.php"><img src="images/title.gif" width="630" height="48" border="0"></a></td>
   </tr>
-  <tr valign="top">
+  <tr valign="top" id="buttons">
     <td valign="top" width="630" height="23">
       <table width="630" border="0" cellspacing="0" cellpadding="0">
         <tr>

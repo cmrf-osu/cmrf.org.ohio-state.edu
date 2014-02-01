@@ -13,40 +13,12 @@
 <?php include("includes/header.php") ?>
 <?php include("includes/dates.php") ?>
 
-  <tr valign="top">
+  <tr valign="top" id="body">
     <td valign="top">
-<blockquote>
-	<p>&nbsp;</p>
-
-	<p>          
-          The Council hires outside performers to come to the Faire and perform 
-          for the patrons. It has had singers, musicians, sword fighters, comedy 
-          acts, stunt acts, and many more. Some of these performers are paid and 
-          some work for free. There are many performers that come directly from 
-          the Ohio State University, as well, including, but not limited to, the 
-          Medieval and Renaissance Performer's Guild, the Society for Creative 
-          Anachronism, the Arts and Sciences Student Council and the Pagan Student 
-          Association. </p>
-	 <p>
-          The next Faire will be held in spring semester <?php echo $fair_year ; ?>, and will take place from 11 a.m. until 6 p.m. on the OSU South Oval.</p>
-          <!-- <br>
-          To apply, fill out this <a href="pdf/Performer_Application_2010[1].rtf">Application Form</a> 
-          and mail it to the following address:<br>
-          <br>
-          CMRF - Performer<br/> 1338 Windham Rd<br/> Columbus, OH 43220 
-        <p>You may also attach the form in an email titled "CMRF - Performer" 
-          to: bibyk.2@osu.edu<br>
-          <br>
-	 <p>
-	  This form needs to be completed and returned to us by March 1st, 
-          2012. Upon receipt of each performer's application, we will review it 
-          with regard to the performer's contribution to the overall medieval 
-          and renaissance sprit of faire as well as our budgetary constraints. 
-          We will make the final decision on which performers we will be hiring 
-          in early March. Upon reaching a decision we will mail contracts out 
-          in mid-March.
-	</p> 
-          --> 
+	<p>The Council hires outside performers to come to the Faire and perform for the patrons. It has had singers, musicians, sword fighters, comedy acts, stunt acts, and many more. Some of these performers are paid and some work for free. There are many performers that come directly from the Ohio State University, as well, including, but not limited to, the Medieval and Renaissance Performer's Guild, the Society for Creative Anachronism, the Arts and Sciences Student Council and the Pagan Student Association. </p>
+	<p>The next Faire will be held in spring semester <?php echo $fair_year ; ?>, and will take place from 11 a.m. until 6 p.m. on the OSU South Oval.</p>
+	<p>To apply to perform at Faire, please contact <a href="contact.php">our Performer Coordinator</a>.</p> 
+    
         <hr>
 <h2>General Information</h2>
 
@@ -78,7 +50,6 @@
             <td width="80">&nbsp;</td>
           </tr>
         </table>
-      </blockquote>
 	</td>
   </tr>
 <?php include("includes/footer.php") ?>

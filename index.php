@@ -16,10 +16,8 @@
 <?php include("includes/dates.php"); ?>
 
 
-  <tr valign="top">
+  <tr valign="top" id="body">
     <td valign="top">
-      <blockquote>
-	<br/>
 	<p>
 	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> will be held on
 	  <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?>, from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.
@@ -45,8 +43,7 @@
 	<!--<a href="pradvert.html">--><b><font color=#8D0122>Public Relations/Advertising/Fundraising:</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Faire Council normally has a poster contest each year centering on the theme for the year's Faire.  This poster is placed in area businesses to advertise for the event.  The design is made into a shirt sold at the Faire.  A program is published and distributed at the Faire containing information about performers, vendors, shows, and ads from area businesses.  We sell these ads to help defray the cost of producing the programs and the posters.  There are coordinators on Faire Council for all of these items as well.<br><br>
 	
 	<!--<a href="madrigal.html">--><b><font color=#8D0122>Madrigal:</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Faire Council also puts on an annual Madrigal Feast with the help of the Medieval and Renaissance Performer's Guild.  This tradition started Winter of 2002 and will hopefully continue for many years to come.  Council organizes the site, advertising, and ticket sales while the Guild provides the performers.  A Madrigal Feast is a type of a Dinner Theatre in which the participants are visually and audibly taken back to the Medieval and Renaissance Periods for a night of period songs, dances, and a great dinner hosted by the lords and ladies of the castle.  Its location and date are subject to change each year. <br>
-      </blockquote>
-	  
+	
       <hr/>
 		<p><a href="faire-archives.php">Catalog of past Faires</a></p>
 	  <hr/>
@@ -54,7 +51,7 @@
   </tr>
   <?php include("includes/footer.php") ?>
 </table>
-<div style="height: 40px;">&nbsp;</div>
+
 
 </body>
 </html>

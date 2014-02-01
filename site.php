@@ -12,33 +12,30 @@
 <?php include("includes/header.php") ?>
 <?php include("includes/dates.php") ?>
 
-<tr valign="top">
+<tr valign="top" id="body">
   <td>
     <table border="0" align="center">
     <tr colspan=2><br></tr>
       <tr>
-	<td width="50%" valign="top" valigh="top">
+	<td width="300px" valign="top" valigh="top">
 	  <p>
 	    The Medieval and Renaissance Faire takes place on the South Oval of the Ohio State University Columbus campus <?php echo $fair_date . ", " . $fair_year ; ?>. It has been going on in this area for over two decades 	  and will hopefully continue for years to come. The site is spotted with trees native to central Ohio and also harbors the serene Mirror Lake. With multiple paths and 4-5 performance sites each year, this is the ideal location for the Faire.
 	  </p>
 	  <p>&nbsp;</p>
 	  <h3>Directions:</h3>
 	  <p>
-	    From I-71 (N or S) take Hudson Avenue exit, West on Hudson, Left (South) on Neil Avenue, Right (West) on Lane Avenue, Left (South) onto Fyffe Road, Left (East) on Woody Hayes, Right (South) on College Road…	    
+	    From I-71 (N or S) take Hudson Avenue exit, West on Hudson, Left (South) on Neil Avenue, Right (West) on Lane Avenue, Left (South) onto Fyffe Road, Left (East) on Woody Hayes, Right (South) on College Road. 
 	  </p>
 	  <p>
-	    From 315 S to Lane Avenue, Left (East) on Lane, Right (South) on Fyffe, Left (East) on Woody Hayes, Right (South) on College Road…	    
+	    From 315 S to Lane Avenue, Left (East) on Lane, Right (South) on Fyffe, Left (East) on Woody Hayes, Right (South) on College Road.
 	  </p>
 	  <p>
-	    From 315 N to Medical Center Drive. Turn right on 9th Ave. (a garage is available on 9th Ave. For parking nearer to the faire…	    ), Left on Neil Avenue, Right on 12th Avenue, Left on College Road…
+	    From 315 N to Medical Center Drive. Turn right on 9th Ave. (a garage is available on 9th Ave. For parking nearer to the faire), Left on Neil Avenue, Right on 12th Avenue, Left on College Road.
 	  </p>
 	  <p></p>
-	  <p><a href="images/Driving Directions Map.jpg">
-	    <img src="images/Driving Directions Map.jpg" alt="Driving directions map" width="360" height="240"/>
-          </a></p>
-              
+	  <p><a href="images/Driving Directions Map.jpg"><img src="images/Driving Directions Map.jpg" alt="Driving directions map" width="300" height="auto"/></a></p>
 	</td>
-	<td width="50%" valign="top" align="center"><img width="250" height="496" src="http://cmrf.org.ohio-state.edu/images/map.gif"></td>
+	<td width="300px" valign="top" align="center"><img width="250" height="496" src="http://cmrf.org.ohio-state.edu/images/map.gif"></td>
       </tr>
     </table>
   </td>
