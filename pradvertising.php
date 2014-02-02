@@ -15,12 +15,10 @@
 
   <tr valign="top" id="body">
     <td valign="top">
-	  <?php if ($season == 'faire' OR $season == 'ticketing' OR $season == 'ticketing-nofood' OR $season == 'ticketing-soldout' ) { ?>
+	  <?php if ($season == 'faire' OR $season == 'ticketing' OR $season == 'ticketing-nofood' OR $season == 'ticketing-soldout' or $season == 'premadrigal' ) { ?>
 		<?php include("includes/pr-faire.php") ?>
 	  <?php } elseif ($season == 'postfaire' ) { ?>
 		<?php include("includes/pr-postfaire.php") ?>
-	  <?php } elseif ($season == 'premadrigal' ) { ?>
-		<?php include("includes/pr-premadrigal.php") ?>
 	  <?php } else { ?>
 		<p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
 	  <?php } ?>
