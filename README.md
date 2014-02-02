@@ -47,7 +47,7 @@ Dates for most of the site are set in `includes/dates.php`. Changing the appropr
 
 ### Madrigal page modes
 
-The madrigal page has several modes. The active mode is set by changing the value of `$madrigal_status` in `includes/dates.php`:
+The madrigal page has several modes. The active mode is set by changing the value of `$season` in `includes/dates.php`:
 
 * thisyear
 	* Once we have a Madrigal date
@@ -74,7 +74,7 @@ The madrigal page has several modes. The active mode is set by changing the valu
 	* contents in `includes/madrigal-nextyear.php`
     * "Faire is over, you should join us and come to Madrigal in fall `$madrigal_year`!" using the updated `$madrigal_year`
 
-Changing the value of `$madrigal_status` will change what visitors see when they visit http://cmrf.org.ohio-state.edu/madrigal.php
+Changing the value of `$season` will change what visitors see when they visit http://cmrf.org.ohio-state.edu/madrigal.php
 
 ### Generating PayPal buttons for Ticketing
 

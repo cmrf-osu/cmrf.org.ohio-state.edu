@@ -22,7 +22,7 @@
     $madrigal_year_old = '2012'; // Last year; YYYY
     $madrigal_nth_old = '12<sup>th</sup>'; // was 12 in 2012. 
     
-    $madrigal_status = 'faire';
+    $season = 'faire';
         // faire        - after madrigal up to faire
         // nextyear     - after faire
         // thisyear     - once operations start

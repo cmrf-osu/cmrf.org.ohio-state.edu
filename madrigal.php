@@ -37,20 +37,20 @@
 				  /* Don't mess with this portion.
 				   * The content of the Madrigal page is chosen by two factors.
 						* A collection of files in `/includes/` that hold different content. Each file is for a different time of year. If you want to change what a file says, edit the appropriate file in `/includes/`.
-						* A setting in `/includes/dates.php` that determines which of the files in `/includes/` to display. If you want to change which file is displayed on the Madrigal page, change the `$madrigal_status` variable in `/includes/dates.php`.
+						* A setting in `/includes/dates.php` that determines which of the files in `/includes/` to display. If you want to change which file is displayed on the Madrigal page, change the `$season` variable in `/includes/dates.php`.
 				   */
 			?>
-			<?php if ($madrigal_status == 'faire' ) { ?>
+			<?php if ($season == 'faire' ) { ?>
 				  <?php include("includes/madrigal-faire.php") ?>
-			<?php } elseif ($madrigal_status == 'nextyear' ) { ?>
+			<?php } elseif ($season == 'nextyear' ) { ?>
 				  <?php include("includes/madrigal-nextyear.php") ?>
-			<?php } elseif ($madrigal_status == 'thisyear' ) { ?>
+			<?php } elseif ($season == 'thisyear' ) { ?>
 				  <?php include("includes/madrigal-thisyear.php") ?>
-			<?php } elseif ($madrigal_status == 'ticketing' ) { ?>
+			<?php } elseif ($season == 'ticketing' ) { ?>
 				  <?php include("includes/madrigal-ticketing.php") ?>
-			<?php } elseif ($madrigal_status == 'ticketing-nofood' ) { ?>
+			<?php } elseif ($season == 'ticketing-nofood' ) { ?>
 				  <?php include("includes/madrigal-ticketing-nofood.php") ?>
-			<?php } elseif ($madrigal_status == 'soldout' ) { ?>
+			<?php } elseif ($season == 'soldout' ) { ?>
 				  <?php include("includes/madrigal-soldout.php") ?>
 			<?php } else { ?>
 				  <p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
