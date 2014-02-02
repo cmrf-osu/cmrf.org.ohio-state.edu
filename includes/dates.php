@@ -22,11 +22,12 @@
     $madrigal_year_old = '2012'; // Last year; YYYY
     $madrigal_nth_old = '12<sup>th</sup>'; // was 12 in 2012. 
     
+    /* The driving variable */
     $season = 'faire';
-        // faire        - after madrigal up to faire
-        // postfaire    - after faire
-        // premadrigal  - once operations start
-        // ticketing    - when doing ticketing (edit includes/madrigal-ticketing.php with appropriate information for tickets)
-        // ticketing-nofood    - when food orders are closed (edit includes/madrigal-ticketing.php with appropriate information for tickets)
-        // ticketing-soldout      - after ticket sales are closed
+        // faire             - after madrigal up to faire
+        // postfaire         - after faire until madrigal
+        // premadrigal       - once madrigal operations start
+        // ticketing         - when doing ticketing (edit includes/madrigal-ticketing.php with appropriate information for tickets)
+        // ticketing-nofood  - when food orders are closed (edit includes/madrigal-ticketing.php with appropriate information for tickets)
+        // ticketing-soldout - after ticket sales are closed
 ?>
