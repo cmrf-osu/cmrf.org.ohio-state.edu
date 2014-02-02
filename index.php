@@ -28,8 +28,8 @@
 	  <?php include("includes/index-ticketing.php") ?>
 	<?php } elseif ($season == 'ticketing-nofood' ) { ?>
 	  <?php include("includes/index-ticketing-nofood.php") ?>
-	<?php } elseif ($season == 'soldout' ) { ?>
-	  <?php include("includes/index-soldout.php") ?>
+	<?php } elseif ($season == 'ticketing-soldout' ) { ?>
+	  <?php include("includes/index-ticketing-soldout.php") ?>
 	<?php } else { ?>
 		  <p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
 	<?php } ?>

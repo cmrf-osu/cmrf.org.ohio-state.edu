@@ -61,9 +61,9 @@ The madrigal page has several modes. The active mode is set by changing the valu
     * still selling tickets, but not selling food.
     * contents in `includes/madrigal-ticketing-nofood.php`
     * "Madrigal is `$madrigal_date`! Buy tickets before we close online ticket sales tomorrow!"
-* soldout
+* ticketing-soldout
 	* after ticket sales are closed
-	* contents in `includes/madrigal-soldout.php`
+	* contents in `includes/madrigal-ticketing-soldout.php`
     * "Madrigal is `$madrigal_date`, but we've stopped selling tickets online! Come anyways, because there might be seats!"
 * faire
 	* after madrigal up to faire

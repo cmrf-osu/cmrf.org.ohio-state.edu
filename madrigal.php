@@ -50,8 +50,8 @@
 				  <?php include("includes/madrigal-ticketing.php") ?>
 			<?php } elseif ($season == 'ticketing-nofood' ) { ?>
 				  <?php include("includes/madrigal-ticketing-nofood.php") ?>
-			<?php } elseif ($season == 'soldout' ) { ?>
-				  <?php include("includes/madrigal-soldout.php") ?>
+			<?php } elseif ($season == 'ticketing-soldout' ) { ?>
+				  <?php include("includes/madrigal-ticketing-soldout.php") ?>
 			<?php } else { ?>
 				  <p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
 			<?php } ?>
