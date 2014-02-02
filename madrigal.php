@@ -42,8 +42,8 @@
 			?>
 			<?php if ($season == 'faire' ) { ?>
 				  <?php include("includes/madrigal-faire.php") ?>
-			<?php } elseif ($season == 'nextyear' ) { ?>
-				  <?php include("includes/madrigal-nextyear.php") ?>
+			<?php } elseif ($season == 'postfaire' ) { ?>
+				  <?php include("includes/madrigal-postfaire.php") ?>
 			<?php } elseif ($season == 'thisyear' ) { ?>
 				  <?php include("includes/madrigal-thisyear.php") ?>
 			<?php } elseif ($season == 'ticketing' ) { ?>

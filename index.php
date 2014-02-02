@@ -18,6 +18,21 @@
 
   <tr valign="top" id="body">
     <td valign="top">
+	<?php if ($season == 'faire' ) { ?>
+	  <?php include("includes/index-faire.php") ?>
+	<?php } elseif ($season == 'postfaire' ) { ?>
+	  <?php include("includes/index-postfaire.php") ?>
+	<?php } elseif ($season == 'thisyear' ) { ?>
+	  <?php include("includes/index-thisyear.php") ?>
+	<?php } elseif ($season == 'ticketing' ) { ?>
+	  <?php include("includes/index-ticketing.php") ?>
+	<?php } elseif ($season == 'ticketing-nofood' ) { ?>
+	  <?php include("includes/index-ticketing-nofood.php") ?>
+	<?php } elseif ($season == 'soldout' ) { ?>
+	  <?php include("includes/index-soldout.php") ?>
+	<?php } else { ?>
+		  <p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
+	<?php } ?>
 	<p>
 	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> will be held on
 	  <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?>, from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.

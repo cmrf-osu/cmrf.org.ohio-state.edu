@@ -69,9 +69,9 @@ The madrigal page has several modes. The active mode is set by changing the valu
 	* after madrigal up to faire
 	* contents in `includes/madrigal-faire.php`
     * "Faire is coming, be prepared!"
-* nextyear
+* postfaire
 	* after faire
-	* contents in `includes/madrigal-nextyear.php`
+	* contents in `includes/madrigal-postfaire.php`
     * "Faire is over, you should join us and come to Madrigal in fall `$madrigal_year`!" using the updated `$madrigal_year`
 
 Changing the value of `$season` will change what visitors see when they visit http://cmrf.org.ohio-state.edu/madrigal.php
