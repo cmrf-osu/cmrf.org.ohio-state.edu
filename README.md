@@ -47,11 +47,11 @@ Dates for most of the site are set in `includes/dates.php`. Changing the appropr
 
 ### Madrigal page modes
 
-The madrigal page has several modes. The active mode is set by changing the value of `$madrigal_status` in `includes/dates.php`:
+The madrigal page has several modes. The active mode is set by changing the value of `$season` in `includes/dates.php`:
 
-* thisyear
+* premadrigal
 	* Once we have a Madrigal date
-	* contents in `includes/madrigal-thisyear.php`
+	* contents in `includes/madrigal-premadrigal.php`
     * "Madrigal is `$madrigal_date`!"
 * ticketing
 	* when doing ticketing (edit madrigal.php with appropriate information for tickets)
@@ -61,20 +61,20 @@ The madrigal page has several modes. The active mode is set by changing the valu
     * still selling tickets, but not selling food.
     * contents in `includes/madrigal-ticketing-nofood.php`
     * "Madrigal is `$madrigal_date`! Buy tickets before we close online ticket sales tomorrow!"
-* soldout
+* ticketing-soldout
 	* after ticket sales are closed
-	* contents in `includes/madrigal-soldout.php`
+	* contents in `includes/madrigal-ticketing-soldout.php`
     * "Madrigal is `$madrigal_date`, but we've stopped selling tickets online! Come anyways, because there might be seats!"
 * faire
 	* after madrigal up to faire
 	* contents in `includes/madrigal-faire.php`
     * "Faire is coming, be prepared!"
-* nextyear
+* postfaire
 	* after faire
-	* contents in `includes/madrigal-nextyear.php`
+	* contents in `includes/madrigal-postfaire.php`
     * "Faire is over, you should join us and come to Madrigal in fall `$madrigal_year`!" using the updated `$madrigal_year`
 
-Changing the value of `$madrigal_status` will change what visitors see when they visit http://cmrf.org.ohio-state.edu/madrigal.php
+Changing the value of `$season` will change what visitors see when they visit http://cmrf.org.ohio-state.edu/madrigal.php
 
 ### Generating PayPal buttons for Ticketing
 
