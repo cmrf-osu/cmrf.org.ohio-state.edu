@@ -25,7 +25,7 @@
     $season = 'faire';
         // faire        - after madrigal up to faire
         // postfaire    - after faire
-        // thisyear     - once operations start
+        // premadrigal  - once operations start
         // ticketing    - when doing ticketing (edit includes/madrigal-ticketing.php with appropriate information for tickets)
         // ticketing-nofood    - when food orders are closed (edit includes/madrigal-ticketing.php with appropriate information for tickets)
         // soldout      - after ticket sales are closed

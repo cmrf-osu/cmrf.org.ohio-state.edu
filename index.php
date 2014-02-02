@@ -22,8 +22,8 @@
 	  <?php include("includes/index-faire.php") ?>
 	<?php } elseif ($season == 'postfaire' ) { ?>
 	  <?php include("includes/index-postfaire.php") ?>
-	<?php } elseif ($season == 'thisyear' ) { ?>
-	  <?php include("includes/index-thisyear.php") ?>
+	<?php } elseif ($season == 'premadrigal' ) { ?>
+	  <?php include("includes/index-premadrigal.php") ?>
 	<?php } elseif ($season == 'ticketing' ) { ?>
 	  <?php include("includes/index-ticketing.php") ?>
 	<?php } elseif ($season == 'ticketing-nofood' ) { ?>

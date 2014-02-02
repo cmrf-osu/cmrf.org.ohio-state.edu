@@ -49,9 +49,9 @@ Dates for most of the site are set in `includes/dates.php`. Changing the appropr
 
 The madrigal page has several modes. The active mode is set by changing the value of `$season` in `includes/dates.php`:
 
-* thisyear
+* premadrigal
 	* Once we have a Madrigal date
-	* contents in `includes/madrigal-thisyear.php`
+	* contents in `includes/madrigal-premadrigal.php`
     * "Madrigal is `$madrigal_date`!"
 * ticketing
 	* when doing ticketing (edit madrigal.php with appropriate information for tickets)
