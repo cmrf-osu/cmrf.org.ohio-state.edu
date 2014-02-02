@@ -1,0 +1,2 @@
+<p>We want to thank all who made possible the success of the <?php echo $fair_year_old; ?> Faire: patrons, performers and vendors. You all were a part of making the Faire a great success, we thank you and invite you all to return in <?php echo $fair_year; ?>. </p>
+<p>If you would like to advertise in next year's Faire program, check back here next spring for information about advertising and contact information for the advertising coordinator. THank you for your interest!</p>

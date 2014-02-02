@@ -15,13 +15,16 @@
 
   <tr valign="top" id="body">
     <td valign="top">
-        <p>
-          
-          We want to thank all who made possible the success of the <?php echo $fair_year_old; ?> Faire: 
-          patrons, performers and vendors. You all were a part of making 
-          the Faire a great success, we thank you and invite you all to return 
-          in <?php echo $fair_year; ?>. </p>
-        <p>&nbsp;</p>
+	  <?php if ($season == 'faire' OR $season == 'ticketing' OR $season == 'ticketing-nofood' OR $season == 'ticketing-soldout' ) { ?>
+		<?php include("includes/pr-faire.php") ?>
+	  <?php } elseif ($season == 'postfaire' ) { ?>
+		<?php include("includes/pr-postfaire.php") ?>
+	  <?php } elseif ($season == 'premadrigal' ) { ?>
+		<?php include("includes/pr-premadrigal.php") ?>
+	  <?php } else { ?>
+		<p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
+	  <?php } ?>
+        
 	  </td>
   </tr>
   <tr>
