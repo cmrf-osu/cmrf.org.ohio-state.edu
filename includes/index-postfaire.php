@@ -1,0 +1,3 @@
+<p><b>The Medieval & Renaissance Faire at The Ohio State University</b> was held on <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?>, from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.</p>
+
+<p><b>The Council for the Medieval and Renaissance Faire</b> thanks all who attended, as well as the vendors, the performers, the volunteers from AnimePunch and the Medieval and Renaissance Performers' Guild who helped make the Faire a success. Join us next year in the fall for Madrigal!</p>

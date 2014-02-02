@@ -24,19 +24,12 @@
 	  <?php include("includes/index-postfaire.php") ?>
 	<?php } elseif ($season == 'premadrigal' ) { ?>
 	  <?php include("includes/index-premadrigal.php") ?>
-	<?php } elseif ($season == 'ticketing' ) { ?>
+	<?php } elseif ($season == 'ticketing' OR $season == 'ticketing-nofood' OR $season == 'ticketing-soldout' ) { ?>
 	  <?php include("includes/index-ticketing.php") ?>
-	<?php } elseif ($season == 'ticketing-nofood' ) { ?>
-	  <?php include("includes/index-ticketing-nofood.php") ?>
-	<?php } elseif ($season == 'ticketing-soldout' ) { ?>
-	  <?php include("includes/index-ticketing-soldout.php") ?>
 	<?php } else { ?>
 		  <p>We really aren't sure what's happening. If you see this message, <a href="contact.php">send the webmaster an email</a>. Thanks.</p>
 	<?php } ?>
-	<p>
-	  <b>The Medieval & Renaissance Faire at The Ohio State University</b> will be held on
-	  <?php echo $fair_day . ", " . $fair_date . ", " . $fair_year ; ?>, from 11 a.m. until 6 p.m. on the OSU Mirror Lake, South Oval and West Lawn areas.
-	</p>
+	
 	
 	<hr>
 	  <p class="center">If you're looking for the OSU students who form the cast of the Faire at OSU, try here:<br>
