@@ -45,7 +45,7 @@
 	<!--<a href="madrigal.html">--><b><font color=#8D0122>Madrigal:</font></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Faire Council also puts on an annual Madrigal Feast with the help of the Medieval and Renaissance Performer's Guild.  This tradition started Winter of 2002 and will hopefully continue for many years to come.  Council organizes the site, advertising, and ticket sales while the Guild provides the performers.  A Madrigal Feast is a type of a Dinner Theatre in which the participants are visually and audibly taken back to the Medieval and Renaissance Periods for a night of period songs, dances, and a great dinner hosted by the lords and ladies of the castle.  Its location and date are subject to change each year. <br>
 	
       <hr/>
-		<p><a href="faire-archives.php">Catalog of past Faires</a></p>
+		<p class="center"><a href="faire-archives.php">Catalog of past Faires</a></p>
 	  <hr/>
     </td>
   </tr>
