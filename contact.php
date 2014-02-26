@@ -40,7 +40,7 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
           <tr bgcolor=#dddddd> 
             <td>Vendor Coordinator</td>
             <td><b>Cooper Legeza</b></td>
-            <td><a href="mailto:legeza.5@osu.edu">legeza.5@osu.edu</a></td>
+            <td><a href="mailto:osufairevendor@gmail.com">osufairevendor@gmail.com</a></td>
           </tr>
           <tr> 
             <td>Webmaster</td>
@@ -56,7 +56,7 @@ Perhaps you're trying to contact those crazy folks on the Council for the Mediev
           <tr bgcolor=#dddddd> 
             <td>Site Coordinator</td>
             <td><b>Cooper Legeza</b></td>
-            <td><a href="mailto:legeza.5@osu.edu">legeza.5@osu.edu</a></td>
+            <td><a href="mailto:osufairesite@gmail.com">osufairesite@gmail.com</a></td>
           </tr>
           <tr> 
             <td>Advertising/Public Relations</td>
