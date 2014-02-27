@@ -4,7 +4,7 @@
     <td valign="top">
       <footer>
         <p class="center">
-          updated by Benjamin Keith, 2013-2014<br/>
+          updated by Benjamin Keith, 2012-2014<br/>
           site design by Brian Huneke, 2003<br/>
           CMRF Dragon logo by Jany Chan, 2000
         </p>

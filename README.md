@@ -92,6 +92,8 @@ To generate buttons for sales, you must log into PayPal's website. This is a sca
 
 ## Updating index.php
 
-There's nothing fancy like there is in `madrigal.php`. Yet.
+## Taking credit
+
+Webmasters, please sign your name in `humans.txt` and in `includes/footer.php`. 
 
 

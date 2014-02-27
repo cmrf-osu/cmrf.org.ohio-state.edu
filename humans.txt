@@ -1,0 +1,19 @@
+Humans.txt - the people behind this website
+
+
+/* TEAM */
+CMRF Dragon logo by Jany Chan, 2000
+site design by Brian Huneke, 2003
+site structure updated and put on GitHub by Benjamin Keith, 2012-2014
+
+Past webmasters:
+
+Brian Huneke, 2003
+Tim Callahan, ??-2012
+Ben Keith, 2012-2014
+Audrey Soper, 2014-
+
+/* SITE */
+
+Made with PHP, tables, CSS and love. We're sorry about the tables. 
+https://github.com/cmrf-osu/cmrf.org.ohio-state.edu
