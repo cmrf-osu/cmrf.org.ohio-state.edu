@@ -16,10 +16,14 @@
   <tr valign="top" id="body">
     <td valign="top">
 	<p>The CMRF sells space at our Faire for outside vendors to come and peddle their wares associated in some way with the time period. It has had vendors selling everything from period clothing and swords, to candles and incense, to jewelry and masks, to stuffed creatures and fairy wands. Many vendors are local to Columbus, but some have come from as far away as Michigan. </p>
-        <p>If you're interested in being a vendor at this year's Faire, please fill out the applicable form below and email it to our vendor coordinator, <a href="mailto:legeza.5@osu.edu">Cooper Legeza</a>.</p>
+        <p>If you're interested in being a vendor at this year's Faire, please fill out the applicable form below and send it to:
+		<ul>
+		  <li><a href="mailto:osufairevendor@gmail.com">Cooper Legeza &lt;osufairevendor@gmail.com&gt;</a></li>
+		  <li>Vendor Coordinator<br/>285 E. 14th Ave, Apt. 1L<br>Columbus, Ohio 43201</li>
+		</ul></p>
 	
 	<center>
-	<p>If you have any issues with these forms, contact <a href="mailto:legeza.5@osu.edu">Cooper Legeza</a>. 
+	<p>If you have any issues with these forms, contact <a href="mailto:osufairevendor@gmail.com">Cooper Legeza</a>. 
 <table border="0" width="374" height="272">
             <tbody><tr> 
               <td width="171"> 
@@ -27,12 +31,11 @@
                   Food Vendors:<br>
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Application.doc">Application 
+                  <li><a href="pdf/CMRF- 2014 Food and Beverage Vendor Application.doc">Application 
                     Form (doc)</a> 
-                  </li><li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Information Sheet.doc">Information 
+                  </li><li><a href="pdf/CMRF- 2014 Food and Beverage Vendor Information Sheet.doc">Information Sheet (doc)
                     </a>
-                  </li><li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Guidelines and Restrictions.doc">Guidelines 
-                    And Restrictions (doc)</a>
+                  </li><li><a href="pdf/CMRF- 2014 Food and Beverage Vendor Guidelines and Restrictions.doc">Guidelines And Restrictions (doc)</a>
                 </li></ul>
               </td>
               <td width="179"> 
@@ -40,12 +43,9 @@
                   Craft Vendors: 
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application 
-                    Form (doc)</a></li>
-                  <li><a href="pdf/CMRF-2013 Craft Vendor Information Sheet.doc">Information 
-                    </a>
-                  </li><li><a href="pdf/CMRF- 2013 Craft Vendor Guidelines and Restrictions.doc">Guidelines 
-                    And Restrictions (doc)</a>
+                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application Form (doc)</a></li>
+                  <li><a href="pdf/CMRF- 2014 Craft Vendor Information Sheet.doc">Information Sheet (doc)</a>
+                  </li><li><a href="pdf/CMRF- 2014 Craft Vendor Guidelines and Restrictions.doc">Guidelines And Restrictions (doc)</a>
                  <!-- <li><a href="pdf/CMRF- 2011 Vendor Check List.doc">Vendor 
                     Checklist (doc)</a>  -->
                 </li></ul>
@@ -59,8 +59,6 @@
                 </td>
             </tr>
           </tbody></table>
-		<!--Numbered Site Map:  (GIF) (PDF)-->
-
 		<hr>
 		
 		<h2>General Information</h2>
@@ -77,7 +75,7 @@
 			<tr><td valign=top><b>Time:</b></td><td>The faire begins at 11:00am and ends at 6:00pm. Vendors should arrive at least one and a half hours before the Faire's starting time to check in and setup.</td></tr><tr><td>&nbsp;</td></tr>
 		</table>
 	    <br>
-        <b>Questions?</b>: Please contact <a href="mailto:legeza.5@osu.edu">Cooper Legeza</a>, subject title "Vendors" with any questions you may have.
+        <b>Questions?</b>: Please contact <a href="mailto:osufairevendor@gmail.com">Cooper Legeza</a>, subject title "Vendors" with any questions you may have.
     </td>
   </tr>
 <?php include("includes/footer.php") ?>
