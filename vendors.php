@@ -31,12 +31,11 @@
                   Food Vendors:<br>
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Application.doc">Application 
+                  <li><a href="pdf/CMRF- 2014 Food and Beverage Vendor Application.doc">Application 
                     Form (doc)</a> 
-                  </li><li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Information Sheet.doc">Information 
+                  </li><li><a href="pdf/CMRF- 2014 Food and Beverage Vendor Information Sheet.doc">Information Sheet (doc)
                     </a>
-                  </li><li><a href="pdf/CMRF- 2013 Food and Beverage Vendor Guidelines and Restrictions.doc">Guidelines 
-                    And Restrictions (doc)</a>
+                  </li><li><a href="pdf/CMRF- 2014 Food and Beverage Vendor Guidelines and Restrictions.doc">Guidelines And Restrictions (doc)</a>
                 </li></ul>
               </td>
               <td width="179"> 
@@ -44,12 +43,9 @@
                   Craft Vendors: 
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application 
-                    Form (doc)</a></li>
-                  <li><a href="pdf/CMRF-2013 Craft Vendor Information Sheet.doc">Information 
-                    </a>
-                  </li><li><a href="pdf/CMRF- 2013 Craft Vendor Guidelines and Restrictions.doc">Guidelines 
-                    And Restrictions (doc)</a>
+                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application Form (doc)</a></li>
+                  <li><a href="pdf/CMRF- 2014 Craft Vendor Information Sheet.doc">Information Sheet (doc)</a>
+                  </li><li><a href="pdf/CMRF- 2014 Craft Vendor Guidelines and Restrictions.doc">Guidelines And Restrictions (doc)</a>
                  <!-- <li><a href="pdf/CMRF- 2011 Vendor Check List.doc">Vendor 
                     Checklist (doc)</a>  -->
                 </li></ul>
@@ -63,8 +59,6 @@
                 </td>
             </tr>
           </tbody></table>
-		<!--Numbered Site Map:  (GIF) (PDF)-->
-
 		<hr>
 		
 		<h2>General Information</h2>
