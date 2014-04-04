@@ -43,9 +43,9 @@
                   Craft Vendors: 
                 </center>
                 <ul>
-                  <li><a href="pdf/CMRF- 2013 Craft Vendor Application.doc">Application Form (doc)</a></li>
+                  <li><a href="pdf/CMRF-%202014%20Craft%20Vendor%20Application.doc">Application Form (doc)</a></li>
                   <li><a href="pdf/CMRF- 2014 Craft Vendor Information Sheet.doc">Information Sheet (doc)</a>
-                  </li><li><a href="pdf/CMRF- 2014 Craft Vendor Guidelines and Restrictions.doc">Guidelines And Restrictions (doc)</a>
+                  </li><li><a href="pdf/CMRF-%202014%20Craft%20Vendor%20Guidelines%20and%20Restrictions...doc">Guidelines And Restrictions (doc)</a>
                  <!-- <li><a href="pdf/CMRF- 2011 Vendor Check List.doc">Vendor 
                     Checklist (doc)</a>  -->
                 </li></ul>

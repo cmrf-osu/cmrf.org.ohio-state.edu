@@ -36,9 +36,7 @@
 	  <a href="http://guild.org.ohio-state.edu">The Medieval and Renaissance Performers Guild</a>. </p>
 	<hr>
 	
-	<p>The Council for the Medieval and Renaissance Faire is a student organization at The Ohio State University. We organize and run the Medieval and Renaissance Faire at Ohio State and the Madrigal Feast. The Council works hand in hand with the Medieval and Renaissance Performer's Guild for both of these events.</p>
-	
-	<p>Council is always looking for volunteers to help run Faire and Madrigal. </p>
+	<p>The Council for the Medieval and Renaissance Faire is a student organization at The Ohio State University. We organize and run the Medieval and Renaissance Faire at Ohio State and the Madrigal Feast. The Council works hand in hand with the Medieval and Renaissance Performer's Guild. We welcome interested volunteers.</p>
 	
 	<p><!--<a href="performers.html">--><b><a href="performers.php">Performers:</a></b>
 	The Council hires outside performers, including singers, musicians, sword fighters, comedy acts, stunt acts, and many more. Ohio State students perform at Faire as well, including the Medieval and Renaissance Performer's Guild and the Society for Creative Anachronism. <br/>
@@ -46,13 +44,10 @@
 	
 	<p><!--<a href="vendors.html">--><b><a href="vendors.php">Vendors:</a></b>
 	Faire vendors sell all sorts of period wares. Merchants sell everything from period clothing and swords, to candles and incense, to jewelry and masks, to stuffed creatures and fairy wands. Follow your nose to the smoked turkey stand!<br/>
-	If you wish to vend at Faire, <a href="vendors.php">contact our Vendor Coordinator</a>.</p>
+	If you wish to vend at Faire next year, <a href="vendors.php">contact our Vendor Coordinator</a>.</p>
 	
-	<p><!--<a href="site.html">--><b><a href="site.php">Site:</a></b> 
-	Faire almost always takes place on the South Oval of the Ohio State University Columbus campus. It has been going on in this area for more than three decades and will hopefully continue for years to come. The site is spotted with trees native to central Ohio and also harbors the serene Mirror Lake. With many paths and several locations for performances, the South Oval is the ideal location for Faire.</p>
-	
-	<p><!--<a href="pradvert.html">--><b><a href="pradvertising.php">Public Relations and Advertising:</a></b> 
-	Every year, Council holds a contest to choose <a href="faire-archives.php">the Faire poster</a>, which is used on t-shirts, posters, advertisements, and the Faire program. The Program, distributed at Faire, contains information about performers, vendors, shows, and ads from area businesses. Ad sales directly support Council's operating costs, and help ensure the success of Faire.<br/>
+	<p><!--<a href="pradvert.html">--><b><a href="pradvertising.php">Advertising:</a></b> 
+	The Faire Program, distributed at Faire, contains information about performers, vendors, shows, and ads from area businesses. Ad sales directly support Council's operating costs, and help ensure the success of Faire.<br/>
 	For more information on advertising, please <a href="pradvertising.php">contact our advertising coordinator</a>.</p>
 	
 	<!--<a href="madrigal.html">--><b><a href="madrigal.php">Madrigal:</a></b>

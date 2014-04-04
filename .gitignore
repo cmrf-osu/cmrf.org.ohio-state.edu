@@ -1,0 +1,23 @@
+# Project files that do not not belong in Git
+not-for-site/*
+images/*
+pdf/*
+*.zip
+
+# Editor files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+*.komodoproject
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
