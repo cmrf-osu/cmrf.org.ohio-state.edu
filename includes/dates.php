@@ -23,7 +23,7 @@
     $madrigal_nth_old = '12<sup>th</sup>'; // was 12 in 2012. 
     
     /* The driving variable */
-    $season = 'faire';
+    $season = 'postfaire';
         // faire             - after madrigal up to faire
         // postfaire         - after faire until madrigal
         // premadrigal       - once madrigal operations start

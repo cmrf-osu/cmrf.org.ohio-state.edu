@@ -1,7 +1,8 @@
 a:hover{text-decoration:underline;}
 a{text-decoration:none; color:#8D0122;}
 body {
-  padding-bottom: 40px;
+  padding: 0 0 40px;
+  margin: 0;
 }
 .bigger {
   font-size: 150%;
@@ -156,3 +157,4 @@ table.striped td {
 .bg-grey {
   background: #ccc;
 }
+@media (max-width: 640px;
