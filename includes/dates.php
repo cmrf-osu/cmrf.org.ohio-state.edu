@@ -6,7 +6,7 @@
     $fair_day = 'Saturday'; // Saturday
     $fair_date = 'April 5'; // Month ##
     $fair_year = '2014'; // YYYY
-    $fair_nth = '33<sup>nd</sup>'; // ##<sup>ordinal</sup>
+    $fair_nth = '40<sup>th</sup>'; // ##<sup>ordinal</sup>
 
     $fair_day_old = 'Saturday'; // Saturday
     $fair_date_old = 'April 6'; // Month ##
